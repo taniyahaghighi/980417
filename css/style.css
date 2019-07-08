@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    direction: rtl;
+    text-align: justify;
+    font-family: Vazir;
+    background-image: radial-gradient(circle, #e3cee9, #927c9b, #caa2df, #53415f, #9f82b6);
+}
+div#banner{
+     background-image: radial-gradient(circle, #b788c4, #a86dbe, #9753b9, #8337b4, #6c14b0);
+     color: antiquewhite;
+     height: 50px;
+     text-align: center;
+     border: 2px solid rgb(117, 55, 153);
+}
+article, #banner,footer{
+    padding: 20px;
+}
+/* #text{
+    color: #6c14b0;
+} */
+/* body{
+    background: url('../css/download\ \(1\).jpg');
+    
+} */
